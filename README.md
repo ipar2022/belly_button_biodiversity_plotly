@@ -17,6 +17,7 @@
 - 2. Added background color to the webpage.
 - 3. Used a custom font with contrast for the colors."
 ![page 1](https://user-images.githubusercontent.com/113808332/217436160-046b9b59-e2e6-401d-a9b6-104759b673f9.png)
+![page 1a](https://user-images.githubusercontent.com/113808332/217436482-db635345-fe1a-4b88-af39-6934132e7371.png)
 
 
 
