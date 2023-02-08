@@ -16,6 +16,8 @@
 - 1. Added an image to the jumbotron.
 - 2. Added background color to the webpage.
 - 3. Used a custom font with contrast for the colors."
+![page 1](https://user-images.githubusercontent.com/113808332/217436160-046b9b59-e2e6-401d-a9b6-104759b673f9.png)
+![page 1a](https://user-images.githubusercontent.com/113808332/217436194-879bd392-3b30-42da-994f-1f551a5a7526.png)
 
 
 
